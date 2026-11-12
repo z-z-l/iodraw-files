@@ -22,6 +22,18 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-7" value="状态上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="720" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-8" value="是否首次故障？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-9" value="状态上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-10" value="状态上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-11" value="状态上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="750" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
