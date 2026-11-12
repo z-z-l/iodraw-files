@@ -40,14 +40,26 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-7" value="状态上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="720" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-8" target="IwXCulXpQpmWIvkI2KaC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-8" value="是否首次故障？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-9" target="IwXCulXpQpmWIvkI2KaC-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-9" value="保留最小变距控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1130" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-10" target="IwXCulXpQpmWIvkI2KaC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-10" value="退出高阶谐波控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1030" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-11" target="IwXCulXpQpmWIvkI2KaC-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-11" value="进入降级状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="930" width="160" height="60" as="geometry" />
