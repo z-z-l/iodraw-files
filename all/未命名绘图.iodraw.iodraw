@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-1" target="IwXCulXpQpmWIvkI2KaC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-1" value="三通道正常运行" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="160" height="60" as="geometry" />
         </mxCell>
