@@ -84,7 +84,7 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-12" value="返航与着陆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="720" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-31" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-31" value="桨叶" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="960" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-32" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=0;rotation=-180;" vertex="1" parent="1">
