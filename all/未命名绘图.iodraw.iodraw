@@ -20,7 +20,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-4" target="IwXCulXpQpmWIvkI2KaC-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="440" />
+              <mxPoint x="520" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-4" value="检测到通道故障？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="160" height="80" as="geometry" />
@@ -46,8 +51,11 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-8" target="IwXCulXpQpmWIvkI2KaC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-8" target="IwXCulXpQpmWIvkI2KaC-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.97" y="860" as="sourcePoint" />
+            <mxPoint x="309.97" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-8" value="是否首次故障？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="820" width="160" height="80" as="geometry" />
