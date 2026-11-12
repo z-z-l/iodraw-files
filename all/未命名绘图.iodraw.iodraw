@@ -58,22 +58,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-9" value="保留最小变距控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="600" width="160" height="60" as="geometry" />
+          <mxGeometry x="550" y="620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-10" target="IwXCulXpQpmWIvkI2KaC-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-10" value="退出高阶谐波控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="500" width="160" height="60" as="geometry" />
+          <mxGeometry x="550" y="520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-11" target="IwXCulXpQpmWIvkI2KaC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-11" value="进入降级状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="160" height="60" as="geometry" />
+          <mxGeometry x="550" y="410" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-12" value="返航与着陆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="700" width="160" height="60" as="geometry" />
+          <mxGeometry x="550" y="720" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
