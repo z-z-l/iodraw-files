@@ -13,6 +13,9 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-4" value="检测到通道故障？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-5" value="故障确认与定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
