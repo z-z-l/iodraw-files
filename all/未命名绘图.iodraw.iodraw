@@ -11,10 +11,7 @@
           <mxGeometry x="320" y="300" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-4" value="检测到通道故障？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-5" value="监控与故障检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="400" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
