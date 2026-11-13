@@ -123,6 +123,9 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-41" value="电机转子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-43" target="IwXCulXpQpmWIvkI2KaC-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-43" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -173,6 +176,9 @@
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-52" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-53" target="IwXCulXpQpmWIvkI2KaC-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-53" value="桨叶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1440" width="120" height="60" as="geometry" />
