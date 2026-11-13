@@ -117,10 +117,10 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-43" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-44" value="耳片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-45" value="连杆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
