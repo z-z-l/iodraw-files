@@ -144,7 +144,7 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-52" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-53" value="桨叶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
