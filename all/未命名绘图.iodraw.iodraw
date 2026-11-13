@@ -162,9 +162,9 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-52" target="IwXCulXpQpmWIvkI2KaC-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IwXCulXpQpmWIvkI2KaC-65">
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-66" value="离心力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IwXCulXpQpmWIvkI2KaC-65">
           <mxGeometry x="-0.082" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-31" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-52" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
