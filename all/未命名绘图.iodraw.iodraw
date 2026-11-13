@@ -139,7 +139,7 @@
           <mxGeometry x="400" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-46" value="桨毂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-61" value="扭矩" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-47" target="IwXCulXpQpmWIvkI2KaC-46">
           <mxGeometry x="0.7" y="10" relative="1" as="geometry">
