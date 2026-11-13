@@ -126,7 +126,7 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-43" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-44" target="IwXCulXpQpmWIvkI2KaC-43">
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-57" value="扭矩" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-44" target="IwXCulXpQpmWIvkI2KaC-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-44" value="耳片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,7 +142,7 @@
           <mxGeometry x="560" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-61" value="扭矩" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-47" target="IwXCulXpQpmWIvkI2KaC-46">
-          <mxGeometry x="0.7" y="10" relative="1" as="geometry">
+          <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -166,7 +166,7 @@
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-66" value="离心力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IwXCulXpQpmWIvkI2KaC-65">
           <mxGeometry x="-0.082" y="-1" relative="1" as="geometry">
-            <mxPoint x="79" y="-11" as="offset" />
+            <mxPoint x="-7" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-52" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
