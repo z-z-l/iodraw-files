@@ -117,7 +117,7 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-41" target="IwXCulXpQpmWIvkI2KaC-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-41" target="IwXCulXpQpmWIvkI2KaC-49">
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-41" target="IwXCulXpQpmWIvkI2KaC-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-41" value="电机转子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -159,11 +159,10 @@
         <mxCell id="IwXCulXpQpmWIvkI2KaC-49" value="电机定子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-51" value="桨毂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IwXCulXpQpmWIvkI2KaC-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-52" target="IwXCulXpQpmWIvkI2KaC-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IwXCulXpQpmWIvkI2KaC-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwXCulXpQpmWIvkI2KaC-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.9999999999998" y="1710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IwXCulXpQpmWIvkI2KaC-52" value="变距轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1680" width="120" height="60" as="geometry" />
